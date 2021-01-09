@@ -71,3 +71,18 @@ While we have purposefully avoided introducing JavaScript frameworks so as to co
 ## Offline access
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+
+To open the website using Docsify via VS Code, please follow this procedure:
+
+- fork the Web-Dev-For-Beginners repo
+- download the Web-Dev-For-Beginners zip file
+- open up the folder in VS Code
+- open the index.html file in the root folder
+- open your VS Code Terminal
+- type _docsify serve_
+- you should see something line similar to these:
+**Serving C:\Users\HP\Documents\Web-Dev-For-Beginners-main now.
+Listening at http://localhost:3000*
+- hold on control key and click on "http://localhost:3000"
+- optionally, you can open up your browser and enter "http://localhost:3000"
+- the website should then appear locally in your browser with the whole content of the tutorial, voila.
