@@ -75,7 +75,7 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 To open the website using Docsify via VS Code, please follow this procedure:
 
 - fork the Web-Dev-For-Beginners repo
-- download the Web-Dev-For-Beginners zip file
+- download the Web-Dev-For-Beginners zip file from the forked repo
 - open up the folder in VS Code
 - open the index.html file in the root folder
 - open your VS Code Terminal
