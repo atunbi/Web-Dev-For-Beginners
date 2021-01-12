@@ -80,7 +80,7 @@ To open the website using Docsify via VS Code, please follow this procedure:
 - open the index.html file in the root folder
 - open your VS Code Terminal
 - type _docsify serve_
-- you should see something line similar to these:
+- you should see something similar to these:
 **Serving C:\Users\HP\Documents\Web-Dev-For-Beginners-main now.
 Listening at http://localhost:3000*
 - hold on control key and click on "http://localhost:3000"
